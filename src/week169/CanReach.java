@@ -10,7 +10,7 @@ import java.util.LinkedList;
  **/
 public class CanReach {
     public boolean canReach(int[] arr, int start) {
-        LinkedList<Integer> list = new LinkedList();
+        LinkedList<Integer> list = new LinkedList<>();
         boolean[] visited = new boolean[arr.length];
         if (arr[start] == 0) {
             return true;
