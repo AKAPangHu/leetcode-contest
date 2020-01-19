@@ -3,6 +3,8 @@ package week172;
 import java.util.Arrays;
 
 /**
+ * 6和9组成的最大数字
+ * 简单题
  * @author: 胖虎
  * @date: 2020/1/19 10:44
  **/

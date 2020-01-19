@@ -4,10 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 竖直打印单词
+ * 小模拟题 稍稍繁琐
  * @author: 胖虎
  * @date: 2020/1/19 11:00
  **/
 public class PrintVertically {
+
     public List<String> printVertically(String s) {
         String[] strings = s.split(" ");
         ArrayList<String> arrayList = new ArrayList<>();
