@@ -7,5 +7,5 @@ package week172;
  * @date: 2020/1/19 19:53
  **/
 public class MinTaps {
-    
+    private String min;
 }
